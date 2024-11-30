@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything that i can >_<**
 
-- 📫 How to reach me **arizhakusuma@proton.mail**
+- 📫 How to reach me **arizhakusuma@proton.me**
 
 - 📄 My personal blog [rizabraum.github.io](rizabraum.github.io)
 
