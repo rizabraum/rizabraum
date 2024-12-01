@@ -17,13 +17,9 @@
 
 <h3 align="left" style="color: #fff;">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soon" height="30" width="40" /></a>
-<a href="https://kaggle.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arizha-praja-wirakusuma-739213330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arizha-praja-wirakusuma-739213330" height="30" width="40" /></a>
 <a href="https://instagram.com/arizhawk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arizhawk" height="30" width="40" /></a>
-<a href="https://medium.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="soon" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soon" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soon" height="30" width="40" /></a>
+<a href="https://medium.com/@arizhawirakusuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arizhawirakusuma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left" style="color: #fff;">Languages and Tools:</h3>
