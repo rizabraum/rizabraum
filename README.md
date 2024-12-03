@@ -59,9 +59,10 @@
   </a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizabraum&show_icons=true&locale=en&layout=compact&theme=dark" alt="rizabraum" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizabraum&show_icons=true&locale=en&theme=dark" alt="rizabraum" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizabraum&theme=dark" alt="rizabraum" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizabraum&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizabraum&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizabraum&theme=dark" alt="GitHub Streak Stats" />
+</div>
