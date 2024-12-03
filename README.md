@@ -12,14 +12,10 @@
 </p>
 
 - 🌱 I’m currently learning **CP, CTF, OOP, Fullstack**
-
 - 💬 Ask me about **Anything that I can >_<**
-
-- 📫 How to reach me **arizhakusuma@proton.me**
-
-- 📄 My personal blog [rizabraum.github.io](https://rizabraum.github.io)
-
-- ⚡ Fun fact **I'm insanely in love with FNH**
+- 📫 How to reach me: **arizhakusuma@proton.me**
+- 📄 My personal blog: [rizabraum.github.io](https://rizabraum.github.io)
+- ⚡ Fun fact: **I'm insanely in love with FNH**
 
 <h3 align="center" style="color: #fff;">Connect with me:</h3>
 <p align="center">
@@ -79,7 +75,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizabraum&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
-<h3 align="center" style="color: #fff;">Contribution Snake:</h3>
+<br clear="both">
+
 <p align="center">
-  <img src="https://github.com/rizabraum/rizabraum/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </p>
