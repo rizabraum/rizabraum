@@ -11,10 +11,10 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **CP, CTF, OOP, Fullstack**
-- 💬 Ask me about **Anything that I can >_<**
-- 📫 How to reach me: **arizhakusuma@proton.me**
-- 📄 My personal blog: [rizabraum.github.io](https://rizabraum.github.io)
+- 🌱 I’m currently learning **CP, CTF, OOP, Fullstack**  
+- 💬 Ask me about **Anything that I can >_<**  
+- 📫 How to reach me: **arizhakusuma@proton.me**  
+- 📄 My personal blog: [rizabraum.github.io](https://rizabraum.github.io)  
 - ⚡ Fun fact: **I'm insanely in love with FNH**
 
 <h3 align="center" style="color: #fff;">Connect with me:</h3>
@@ -78,5 +78,5 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
 </p>
