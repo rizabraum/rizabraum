@@ -74,9 +74,3 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizabraum&theme=dark" alt="GitHub Streak Stats" />
 </p>
-
-<br clear="both">
-
-<p align="center">
-  <img src="https://github.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
-</p>
