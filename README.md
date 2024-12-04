@@ -13,7 +13,6 @@
 
 - 🌱 I’m currently learning **CP, CTF, OOP, Fullstack**  
 - 💬 Ask me about **Anything that I can >_<**  
-- 📫 How to reach me: **arizhakusuma@proton.me**  
 - 📄 My personal blog: [rizabraum.github.io](https://rizabraum.github.io)  
 - ⚡ Fun fact: **I'm insanely in love with FNH**
 
